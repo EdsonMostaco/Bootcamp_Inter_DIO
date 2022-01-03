@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(28, 194, 216);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+button {
+    border-style: solid;
+    border-color: tomato;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    color: black;
+    background-color: white;
+}
+span{
+    font-size: 50px;
+    padding: 20px;
+}
